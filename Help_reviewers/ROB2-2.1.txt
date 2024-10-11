@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------------
+RoB2 - 2.1 - Were participants aware of their assigned intervention during the trial?
+-------------------------------------------------------------------------------------
+
+If participants are aware of their assigned intervention it is more likely that health-related behaviours will differ between the intervention groups. Blinding participants, most commonly through use of a placebo or sham intervention, may prevent such differences. If participants experienced side effects or toxicities that they knew to be specific to one of the interventions, answer this question ‘Yes’ or ‘Probably yes’.
+
+---------------------------------------------------------------------------------------------------------------
+Source: https://www.riskofbias.info/welcome/rob-2-0-tool/current-version-of-rob-2 [accessed 11th October 2024].
+---------------------------------------------------------------------------------------------------------------
+[END]
