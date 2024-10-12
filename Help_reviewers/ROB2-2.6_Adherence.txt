@@ -1,0 +1,14 @@
+----------------------------------------------------------------------------------------------------------------
+RoB2 - 2.6 - Adherence. Was an appropriate analysis used to estimate the effect of adhering to the intervention?
+---------------------------------------------------------------------------------------------------------------- 
+ 
+Both ‘naïve ‘per-protocol’ analyses (excluding trial participants who did not receive their allocated intervention) and ‘as treated’ analyses (comparing trial participants according to the intervention they actually received) will usually be inappropriate for estimating the effect of adhering to intervention (the ‘per-protocol’ effect). However, it is possible to use data from a randomized trial to derive an unbiased estimate of the effect of adhering to intervention.  Examples of appropriate methods include: (1) instrumental variable analyses to estimate the effect of receiving the assigned intervention in trials in which a single intervention, administered only at baseline and with all-or-nothing adherence, is compared with standard care; and (2) inverse probability weighting to adjust for censoring of participants who cease adherence to their assigned intervention, in trials of sustained treatment strategies. These methods depend on strong assumptions, which should be appropriate and justified if the answer to this question is ‘Yes’ or ‘Probably yes’. It is possible that a paper reports an analysis based on such methods without reporting information on the deviations from intended intervention, but it would be hard to judge such an analysis to be appropriate in the absence of such information. 
+
+If an important non-protocol intervention was administered to all participants in one intervention group, adjustments cannot be made to overcome this. 
+
+Some examples of analysis strategies that would not be appropriate to estimate the effect of adhering to intervention are (i) ‘Intention to treat (ITT) analysis’, (ii) ‘per protocol analysis’, (iii) ‘as-treated analysis’, (iv) ‘analysis by treatment received’. 
+
+---------------------------------------------------------------------------------------------------------------
+Source: https://www.riskofbias.info/welcome/rob-2-0-tool/current-version-of-rob-2 [accessed 11th October 2024].
+---------------------------------------------------------------------------------------------------------------
+[END]

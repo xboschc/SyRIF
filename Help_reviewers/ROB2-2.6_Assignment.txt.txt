@@ -1,0 +1,11 @@
+------------------------------------------------------------------------------------------------- 
+RoB2 - 2.6 Was an appropriate analysis used to estimate the effect of assignment to intervention?
+-------------------------------------------------------------------------------------------------
+
+Both intention-to-treat (ITT) analyses and modified intention-to-treat (mITT) analyses excluding participants with missing outcome data should be considered appropriate. Both naïve ‘per-protocol’ analyses (excluding trial participants who did not receive their assigned intervention) and ‘as treated’ analyses (in which trial participants are grouped according to the intervention that they received, rather than according to their assigned intervention) should be considered inappropriate. Analyses excluding eligible trial participants post-randomization should also be considered inappropriate, but post-randomization exclusions of ineligible participants (when eligibility was not confirmed until after randomization, and could not have been influenced by intervention group assignment) can be considered appropriate. 
+
+---------------------------------------------------------------------------------------------------------------
+Source: https://www.riskofbias.info/welcome/rob-2-0-tool/current-version-of-rob-2 [accessed 11th October 2024].
+---------------------------------------------------------------------------------------------------------------
+[END]
+ 
