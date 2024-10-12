@@ -1,0 +1,12 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RoB2 - 5.1 Were the data that produced this result analysed in accordance with a pre-specified analysis plan that was finalized before unblinded outcome data were available for analysis?
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+If the researchers’ pre-specified intentions are available in sufficient detail, then planned outcome measurements and analyses can be compared with those presented in the published report(s). To avoid the possibility of selection of the reported result, finalization of the analysis intentions must precede availability of unblinded outcome data to the trial  investigators. 
+
+Changes to analysis plans that were made before unblinded outcome data were available, or that were clearly unrelated to the results (e.g. due to a broken machine making data collection impossible) do not raise concerns about bias in selection of the reported result. 
+
+---------------------------------------------------------------------------------------------------------------
+Source: https://www.riskofbias.info/welcome/rob-2-0-tool/current-version-of-rob-2 [accessed 11th October 2024].
+---------------------------------------------------------------------------------------------------------------
+[END]
