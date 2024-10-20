@@ -1,0 +1,10 @@
+--------------------------------------------------------------------------------------------------------------
+ROBINS I - 5.4 - Are the proportion of participants and reasons for missing data similar across interventions?
+--------------------------------------------------------------------------------------------------------------
+
+This aims to elicit whether either (i) differential proportion of missing observations or (ii) differences in reasons for missing observations could substantially impact on our ability to answer the question being addressed. “Similar” includes some minor degree of discrepancy across intervention groups as expected by chance.
+
+----------------------------------------------------------------------------------------------------------
+Source: https://www.riskofbias.info/welcome/home/current-version-of-robins-i [accessed 20th October 2024].
+----------------------------------------------------------------------------------------------------------
+[END]

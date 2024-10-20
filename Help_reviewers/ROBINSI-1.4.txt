@@ -1,0 +1,10 @@
+------------------------------------------------------------------------------------------------------------------------------
+ROBINS I - 1.4 - Did the authors use an appropriate analysis method that controlled for all the important confounding domains?
+------------------------------------------------------------------------------------------------------------------------------
+
+Appropriate methods to control for measured confounders include stratification, regression, matching, standardization, and inverse probability weighting. They may control for individual variables or for the estimated propensity score. Inverse probability weighting is based on a function of the propensity score. Each method depends on the assumption that there is no unmeasured or residual confounding.
+
+----------------------------------------------------------------------------------------------------------
+Source: https://www.riskofbias.info/welcome/home/current-version-of-robins-i [accessed 20th October 2024].
+----------------------------------------------------------------------------------------------------------
+[END]

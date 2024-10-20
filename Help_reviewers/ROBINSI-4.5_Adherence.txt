@@ -1,0 +1,14 @@
+------------------------------------------------------------------------------------
+ROBINS I - 4.5 - Did study participants adhere to the assigned intervention regimen?
+------------------------------------------------------------------------------------
+
+Risk of bias will be higher if participants did not adhere to the intervention as intended. Lack of adherence includes imperfect compliance, cessation of intervention, crossovers to the comparator intervention and switches to another active intervention. Consider available information on the proportion of study participants who continued with their assigned intervention throughout follow up, and answer ‘No’ or ‘Probably No’ if this proportion is high enough to raise concerns.
+
+Answer ‘Yes’ for studies of interventions that are administered once, so that imperfect adherence is not possible.
+
+We distinguish between analyses where follow-up time after interventions switches (including cessation of intervention) is assigned to (1) the new intervention or (2) the original intervention. (1) is addressed under time-varying confounding, and should not be considered further here.
+
+----------------------------------------------------------------------------------------------------------
+Source: https://www.riskofbias.info/welcome/home/current-version-of-robins-i [accessed 20th October 2024].
+----------------------------------------------------------------------------------------------------------
+[END]

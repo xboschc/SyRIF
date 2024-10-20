@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------------------
+Is the reported effect estimate likely to be selected, on the basis of the results, from...
+ROBINS I - 7.3  ... different subgroups?
+----------------------------------------
+
+Particularly with large cohorts often available from routine data sources, it is possible to generate multiple effect estimates for different subgroups or simply to omit varying proportions of the original cohort. If multiple estimates are generated but only one or a subset is reported, there is a risk of selective reporting on the basis of results.
+
+----------------------------------------------------------------------------------------------------------
+Source: https://www.riskofbias.info/welcome/home/current-version-of-robins-i [accessed 20th October 2024].
+----------------------------------------------------------------------------------------------------------
+[END]

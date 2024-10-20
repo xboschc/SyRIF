@@ -1,0 +1,12 @@
+----------------------------------------------------------------------------------------------------------------------
+ROBINS I - 4.6 - Was an appropriate analysis used to estimate the effect of starting and adhering to the intervention?
+----------------------------------------------------------------------------------------------------------------------
+
+It is possible to conduct an analysis that corrects for some types of deviation from the intended intervention. Examples of appropriate analysis strategies include inverse probability weighting or instrumental variable estimation. It is possible that a paper reports such an analysis without reporting information on the deviations from intended intervention, but it would be hard to judge such an analysis to be appropriate in the absence of such information. Specialist advice may be needed to assess studies that used these approaches.
+
+If everyone in one group received a co-intervention, adjustments cannot be made to overcome this.
+
+----------------------------------------------------------------------------------------------------------
+Source: https://www.riskofbias.info/welcome/home/current-version-of-robins-i [accessed 20th October 2024].
+----------------------------------------------------------------------------------------------------------
+[END]

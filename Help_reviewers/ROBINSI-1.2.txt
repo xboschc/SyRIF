@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------------------------
+ROBINS I - 1.2 - Was the analysis based on splitting participants’ follow up time according to intervention received?
+---------------------------------------------------------------------------------------------------------------------
+
+If participants could switch between intervention groups then associations between intervention and outcome may be biased by time-varying confounding. This occurs when prognostic factors influence switches between intended interventions.
+
+----------------------------------------------------------------------------------------------------------
+Source: https://www.riskofbias.info/welcome/home/current-version-of-robins-i [accessed 20th October 2024].
+----------------------------------------------------------------------------------------------------------
+[END]
