@@ -1,8 +1,0 @@
-Optional: What is the predicted direction of bias due to confounding?
-
-Can the true effect estimate be predicted to be greater or less than the estimated effect in the study because one or more of the important confounding domains was not controlled for?
-
-Answering this question will be based on expert knowledge and results in other studies and therefore can only be completed after all of the studies in the body of evidence have been reviewed. Consider the potential effect of each of the unmeasured domains and whether all important confounding domains not controlled for in the analysis would be likely to change the estimate in the same direction, or if one important confounding domain that was not controlled
-for in the analysis is likely to have a dominant impact.
-
-Favours experimental / Favours comparator / Unpredictable
