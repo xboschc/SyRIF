@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------------
+RoB2 - 2.1 - Were participants aware of their assigned intervention during the trial?
+-------------------------------------------------------------------------------------
+
+INDIVIDUALLY RANDOMISED TRIALS
+
+If participants are aware of their assigned intervention it is more likely that health-related behaviours will differ between the intervention groups. Blinding participants, most commonly through use of a placebo or sham intervention, may prevent such differences. If participants experienced side effects or toxicities that they knew to be specific to one of the interventions, answer this question ‘Yes’ or ‘Probably yes’.
+
+CLUSTER RANDOMISED TRIALS - Adherence
+
+Answer ‘Yes’ if participants were aware of any part of the assigned intervention during the trial. It is important to consider all parts of the assigned intervention. Note that, for the purposes of the risk of bias tool, participants are defined as those on whom investigators seek to measure the outcome under consideration, and may be patients, the public, health professionals or other cluster staff.
+
+------------------------------------------------------------------------------------------------------------------
+Sources:
+https://www.riskofbias.info/welcome/rob-2-0-tool/current-version-of-rob-2 [accessed 11th October 2024].
+https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials [accessed 4th November 2024].
+------------------------------------------------------------------------------------------------------------------
+[END]

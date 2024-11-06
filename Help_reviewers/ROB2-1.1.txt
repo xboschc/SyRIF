@@ -1,0 +1,24 @@
+------------------------------------------------
+RoB2 - 1.1 - Was the allocation sequence random?
+------------------------------------------------
+
+INDIVIDUALLY RANDOMISED TRIALS
+
+- Answer ‘Yes’ if a random component was used in the sequence generation process. Examples include computer-generated random numbers; reference to a random number table; coin tossing; shuffling cards or envelopes; throwing dice; or drawing lots. Minimization is generally implemented with a random element (at least when the scores are equal), so an allocation sequence that is generated using minimization should generally be considered to be random.
+
+- Answer ‘No’ if no random element was used in generating the allocation sequence or the sequence is predictable. Examples include alternation; methods based on dates (of birth or admission); patient record numbers; allocation decisions made by clinicians or participants; allocation based on the availability of the intervention; or any other systematic or haphazard method.
+
+- Answer ‘No information’ if the only information about randomization methods is a statement that the study is randomized.
+
+- In some situations a judgement may be made to answer ‘Probably no’ or ‘Probably yes’. For example, , in the context of a large trial run by an experienced clinical trials unit, absence of specific information about generation of the randomization sequence, in a paper published in a journal with rigorously enforced word count limits, is likely to result in a response of ‘Probably yes’ rather than ‘No information’. Alternatively, if other (contemporary) trials by the same investigator team have clearly used non-random sequences, it might be reasonable to assume that the current study was done using similar methods.
+
+CLUSTER RANDOMISED TRIALS
+
+Considerations are mostly the same as for individually randomized trials. Answer ‘No’ for non-random methods that might be seen in cluster-randomized trials, including those based on geography (e.g. clusters near the main research centre allocated to the intervention and those further away to the control).
+
+------------------------------------------------------------------------------------------------------------------
+Sources:
+https://www.riskofbias.info/welcome/rob-2-0-tool/current-version-of-rob-2 [accessed 11th October 2024].
+https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials [accessed 4th November 2024].
+------------------------------------------------------------------------------------------------------------------
+[END]

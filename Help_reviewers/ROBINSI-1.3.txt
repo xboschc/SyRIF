@@ -1,0 +1,10 @@
+------------------------------------------------------------------------------------------------------------------------------------
+ROBINS I - 1.3 - Were intervention discontinuations or switches likely to be related to factors that are prognostic for the outcome?
+------------------------------------------------------------------------------------------------------------------------------------
+
+If intervention switches are unrelated to the outcome, for example when the outcome is an unexpected harm, then time-varying confounding will not be present and only control for baseline confounding is required.
+
+----------------------------------------------------------------------------------------------------------
+Source: https://www.riskofbias.info/welcome/home/current-version-of-robins-i [accessed 20th October 2024].
+----------------------------------------------------------------------------------------------------------
+[END]

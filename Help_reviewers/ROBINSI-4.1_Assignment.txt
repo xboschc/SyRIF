@@ -1,0 +1,10 @@
+----------------------------------------------------------------------------------------------------------------------
+ROBINS I - 4.1 - Were there deviations from the intended intervention beyond what would be expected in usual practice?
+----------------------------------------------------------------------------------------------------------------------
+
+Deviations that happen in usual practice following the intervention (for example, cessation of a drug intervention because of acute toxicity) are part of the intended intervention and therefore do not lead to bias in the effect of assignment to intervention. Deviations may arise due to expectations of a difference between intervention and comparator (for example because participants feel unlucky to have been assigned to the comparator group and therefore seek the active intervention, or components of it, or other interventions). Such deviations are not part of usual practice, so may lead to biased effect estimates. However these are not expected in observational studies of individuals in routine care.
+
+----------------------------------------------------------------------------------------------------------
+Source: https://www.riskofbias.info/welcome/home/current-version-of-robins-i [accessed 20th October 2024].
+----------------------------------------------------------------------------------------------------------
+[END]

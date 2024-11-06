@@ -1,0 +1,10 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------
+ROBINS I - 1.5 and 1.8 - Were confounding domains that were controlled for measured validly and reliably by the variables available in this study?
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Appropriate control of confounding requires that the variables adjusted for are valid and reliable measures of the confounding domains. For some topics, a list of valid and reliable measures of confounding domains will be specified in the review protocol but for others such a list may not be available. Study authors may cite references to support the use of a particular measure. If authors control for confounding variables with no indication of their validity or reliability pay attention to the subjectivity of the measure. Subjective measures (e.g. based on self-report) may have lower validity and reliability than objective measures such as lab findings.
+
+----------------------------------------------------------------------------------------------------------
+Source: https://www.riskofbias.info/welcome/home/current-version-of-robins-i [accessed 20th October 2024].
+----------------------------------------------------------------------------------------------------------
+[END]

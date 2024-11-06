@@ -1,0 +1,10 @@
+--------------------------------------------------------------------------------------------------------
+RoB2 - 3.1b - Were data for this outcome available for all, or nearly all, participants within clusters?
+--------------------------------------------------------------------------------------------------------
+
+The issues here are broadly as for individually-randomized trials. In cluster-randomized trials there may be particular complexities when clusters merge, split, or disappear.
+
+---------------------------------------------------------------------------------------------------------------------------
+Sources: https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials [accessed 4th November 2024].
+---------------------------------------------------------------------------------------------------------------------------
+[END]

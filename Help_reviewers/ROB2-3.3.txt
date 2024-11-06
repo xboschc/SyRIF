@@ -1,0 +1,14 @@
+-----------------------------------------------------------------------
+RoB2 - 3.3 - Could missingness in the outcome depend on its true value? 
+-----------------------------------------------------------------------
+
+If loss to follow up, or withdrawal from the study, could be related to participants’ health status, then it is possible that missingness in the outcome was influenced by its true value. However, if all missing outcome data occurred for documented reasons that are unrelated to the outcome then the risk of bias due to missing outcome data will be low (for example, failure of a measuring device or interruptions to routine data collection). 
+
+In time-to-event analyses, participants censored during trial follow-up, for example because they withdrew from the study, should be regarded as having missing outcome data, even though some of their follow up is included in the analysis. Note that such participants may be shown as included in analyses in CONSORT flow diagrams.
+
+------------------------------------------------------------------------------------------------------------------
+Sources:
+https://www.riskofbias.info/welcome/rob-2-0-tool/current-version-of-rob-2 [accessed 11th October 2024].
+https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials [accessed 4th November 2024].
+------------------------------------------------------------------------------------------------------------------
+[END]

@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------
+RoB2 - 4.3a - Were outcome assessors aware that a trial was taking place?
+-------------------------------------------------------------------------
+
+This question applies to cluster-randomized trials in which participants report their outcomes themselves, for example in a questionnaire. If they are not aware that they are in a trial then their self-assessment cannot be affected by assignment even if they are aware of the intervention they received.
+
+---------------------------------------------------------------------------------------------------------------------------
+Sources: https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials [accessed 4th November 2024].
+---------------------------------------------------------------------------------------------------------------------------
+[END]

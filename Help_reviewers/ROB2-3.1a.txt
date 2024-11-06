@@ -1,0 +1,10 @@
+------------------------------------------------------------------------------------------------
+RoB2 - 3.1a - Were data for this outcome available for all clusters that recruited participants?
+------------------------------------------------------------------------------------------------
+
+Note that in some cluster randomized trials there may be some clusters in which no participants are recruited. This can happen only when participants are recruited following randomization and is dealt with in domain 1b. Given that there are usually a relatively small number of clusters in a cluster randomized trial, there is potential for bias in some trials even if only one cluster has no analysable participants.
+
+---------------------------------------------------------------------------------------------------------------------------
+Sources: https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials [accessed 4th November 2024].
+---------------------------------------------------------------------------------------------------------------------------
+[END]

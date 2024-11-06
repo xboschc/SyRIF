@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------
+ROBINS I - 5.2 - Were participants excluded due to missing data on intervention status?
+---------------------------------------------------------------------------------------
+
+Missing intervention status may be a problem. This requires that the intended study sample is clear, which it may not be in practice.
+
+----------------------------------------------------------------------------------------------------------
+Source: https://www.riskofbias.info/welcome/home/current-version-of-robins-i [accessed 20th October 2024].
+----------------------------------------------------------------------------------------------------------
+[END]

@@ -1,0 +1,10 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+RoB2 - 1a.3 - Were there baseline imbalances that suggest differential identification or recruitment of individual participants between intervention groups?
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+As for signalling question 1a.3, imbalances that are compatible with chance should not be interpreted as suggesting differential identification or recruitment of participants. Such imbalances are more common in cluster-randomized trials than imbalances due to problems with randomization. They can be in the numbers of participants recruited into each group or in the characteristics of such individuals.
+
+---------------------------------------------------------------------------------------------------------------------------
+Sources: https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials [accessed 4th November 2024].
+---------------------------------------------------------------------------------------------------------------------------
+[END]

@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------------------------------------------
+ROB2 - 2.4 - Adherence - Were there failures in implementing the intervention that could have affected the outcome?
+-------------------------------------------------------------------------------------------------------------------
+
+INDIVIDUALLY RANDOMISED TRIALS
+
+This question is asked only if the preliminary considerations specify that the assessment will address failures in implementing the intervention that could have affected the outcome. Risk of bias will be higher if the intervention was not implemented as intended by, for example, the health care professionals delivering care.
+
+Answer ‘No’ or ‘Probably no’ if implementation of the intervention was successful for most participants.
+
+CLUSTER RANDOMISED TRIALS
+
+Mostly as for individually-randomized trials. When interventions are multifacteted, it is important to consider all interventions for which implementation failures could have affected the outcome. These include interventions aimed at whole clusters and professionals in clusters, as well as those aimed at individual patients and members of the public.
+
+------------------------------------------------------------------------------------------------------------------
+Sources:
+https://www.riskofbias.info/welcome/rob-2-0-tool/current-version-of-rob-2 [accessed 11th October 2024].
+https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials [accessed 4th November 2024].
+------------------------------------------------------------------------------------------------------------------
+[END]

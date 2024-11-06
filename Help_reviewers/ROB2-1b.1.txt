@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------------------------------------------------------
+RoB2 - 1.b1 - Were all the individual participants identified and recruited (if appropriate) before randomization of clusters?
+------------------------------------------------------------------------------------------------------------------------------
+
+Answer ‘Yes’ if:
+(1) all participants were identified and recruited before the clusters were randomized;
+or
+(2) individual participants were not recruited at all but all were identified before randomization.
+In these cases identification/recruitment bias is not possible.
+
+Answer ‘No’ if:
+(1) some or all participants were identified or recruited after randomization;
+or
+(2) there are any clusters in which no participants were recruited (empty clusters).
+
+---------------------------------------------------------------------------------------------------------------------------
+Sources: https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials [accessed 4th November 2024].
+---------------------------------------------------------------------------------------------------------------------------
+[END]

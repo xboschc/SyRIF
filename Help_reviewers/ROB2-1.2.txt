@@ -1,0 +1,22 @@
+-----------------------------------------------------------------------------------------------------------------------------
+RoB2 - 1.2 - Was the allocation sequence concealed until participants / clusters were enrolled and assigned to interventions?
+-----------------------------------------------------------------------------------------------------------------------------
+
+INDIVIDUALLY RANDOMISED TRIALS
+
+- Answer ‘Yes’ if the trial used any form of remote or centrally administered method to allocate interventions to participants, where the process of allocation is controlled by an external unit or organization, independent of the enrolment personnel (e.g. independent central pharmacy, telephone or internet-based randomization service providers).
+
+- Answer ‘Yes’ if envelopes or drug containers were used appropriately. Envelopes should be opaque, sequentially numbered, sealed with a tamper-proof seal and opened only after the envelope has been irreversibly assigned to the participant. Drug containers should be sequentially numbered and of identical appearance, and dispensed or administered only after they have been irreversibly assigned to the participant. This level of detail is rarely provided in reports, and a judgement may be required to justify an answer of ‘Probably yes’ or ‘Probably no’.
+
+- Answer ‘No’ if there is reason to suspect that the enrolling investigator or the participant had knowledge of the forthcoming allocation.
+
+CLUSTER RANDOMISED TRIALS
+
+As for individually randomized trials.
+
+------------------------------------------------------------------------------------------------------------------
+Sources:
+https://www.riskofbias.info/welcome/rob-2-0-tool/current-version-of-rob-2 [accessed 11th October 2024].
+https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials [accessed 4th November 2024].
+------------------------------------------------------------------------------------------------------------------
+[END]

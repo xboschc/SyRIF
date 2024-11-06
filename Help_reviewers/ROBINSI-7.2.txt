@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------------------
+Is the reported effect estimate likely to be selected, on the basis of the results, from...
+ROBINS I - 7.2  ... multiple analyses of the interventionoutcome relationship?
+------------------------------------------------------------------------------
+
+Because of the limitations of using data from non-randomized studies for analyses of effectiveness (need to control confounding, substantial missing data, etc), analysts may implement different analytic methods to address these limitations. Examples include unadjusted and adjusted models; use of final value vs change from baseline vs analysis of covariance; different transformations of variables; a continuously scaled outcome converted to categorical data with different cut-points; different sets of covariates used for adjustment; and different analytic strategies for dealing with missing data. Application of such methods generates multiple estimates of the effect of the intervention versus the comparator on the outcome. If the analyst does not pre-specify the methods to be applied, and multiple estimates are generated but only one or a subset is reported, there is a risk of selective reporting on the basis of results.
+
+----------------------------------------------------------------------------------------------------------
+Source: https://www.riskofbias.info/welcome/home/current-version-of-robins-i [accessed 20th October 2024].
+----------------------------------------------------------------------------------------------------------
+[END]

@@ -1,0 +1,10 @@
+----------------------------------------------------------------------------------------------
+RoB2 - 4.3b - Were outcome assessors aware of the intervention received by study participants?
+----------------------------------------------------------------------------------------------
+
+Answer ‘No’ if outcome assessors were blinded to intervention status. In studies where participants report their outcomes themselves (i.e., participant reported outcome), the outcome assessor is the study participant. In cases where outcomes are collected using routine data, the the individual who provides the data (usually patients or clinicians)and the individual responsible for extracting the data can be considered as oucome assessors.
+
+---------------------------------------------------------------------------------------------------------------------------
+Sources: https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials [accessed 4th November 2024].
+---------------------------------------------------------------------------------------------------------------------------
+[END]

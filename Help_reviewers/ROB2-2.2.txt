@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------------------------------------------------------
+RoB2 - 2.2 - Were carers and people delivering the interventions aware of participants' assigned intervention during the trial?
+-------------------------------------------------------------------------------------------------------------------------------
+
+INDIVIDUALLY RANDOMISED TRIALS
+
+If carers or people delivering the interventions are aware of the assigned intervention then its implementation, or administration of non-protocol interventions, may differ between the intervention groups. Blinding may prevent such differences. If participants experienced side effects or toxicities that carers or people delivering the interventions knew to be specific to one of the interventions, answer question ‘Yes’ or ‘Probably yes’. If randomized allocation was not concealed, then it is likely that carers and people delivering the interventions were aware of participants' assigned intervention during the trial.
+
+CLUSTER RANDOMISED TRIALS
+
+If those involved in caring for participants or making decisions about their health care are aware of the assigned intervention, then implementation of the intended intervention, or administration of non-protocol interventions, may differ between the intervention groups. Blinding carers and trial personnel, which is most commonly achieved through use of a placebo, may prevent such differences, but this is rare in cluster randomized trials.
+
+------------------------------------------------------------------------------------------------------------------
+Sources:
+https://www.riskofbias.info/welcome/rob-2-0-tool/current-version-of-rob-2 [accessed 11th October 2024].
+https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials [accessed 4th November 2024].
+------------------------------------------------------------------------------------------------------------------
+[END]

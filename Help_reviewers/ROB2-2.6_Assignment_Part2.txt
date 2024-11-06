@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------------------------------------------- 
+RoB2 - 2.6 - Assignment - Was an appropriate analysis used to estimate the effect of assignment to intervention?
+----------------------------------------------------------------------------------------------------------------
+
+INDIVIDUALLY RANDOMISED TRIALS
+
+Both intention-to-treat (ITT) analyses and modified intention-to-treat (mITT) analyses excluding participants with missing outcome data should be considered appropriate. Both naïve ‘per-protocol’ analyses (excluding trial participants who did not receive their assigned intervention) and ‘as treated’ analyses (in which trial participants are grouped according to the intervention that they received, rather than according to their assigned intervention) should be considered inappropriate. Analyses excluding eligible trial participants post-randomization should also be considered inappropriate, but post-randomization exclusions of ineligible participants (when eligibility was not confirmed until after randomization, and could not have been influenced by intervention group assignment) can be considered appropriate.
+
+CLUSTER RANDOMISED TRIALS
+
+Answer ‘Yes’ if all clusters and individuals were analysed according to the groups to which they were assigned. Note that there are various reasons why, in some cluster-randomized trials, it is not possible to identify with certainty the groups to which individuals in the trial were assigned, or whether some individuals change clusters part-way through the trial. If the number of such individuals can reasonably be expected to be very small and unrelated to the individual’s assigned group, an analysis that analyses all individuals in the groups to which they were assigned as far as possible should be considered appropriate. When analyses exclude only participants with missing outcome data, these should be considered appropriate with regard to this signalling question: missing outcome data are addressed in a separate domain.
+
+Answer ‘No’ if trial participants were analysed according to the intervention they received, rather than according to the intervention to which they were assigned, or if analyses exclude trial participants or clusters not receiving their assigned intervention., or a stepped wedge trial does not take into account the time trend.
+
+Analyses excluding eligible trial participants after randomization should be considered inappropriate, but exclusions of ineligible participants after randomization (when eligibility was not confirmed until after randomization, and could not have been influenced by intervention group assignment) can be considered appropriate.
+
+------------------------------------------------------------------------------------------------------------------
+Sources:
+https://www.riskofbias.info/welcome/rob-2-0-tool/current-version-of-rob-2 [accessed 11th October 2024].
+https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials [accessed 4th November 2024].
+------------------------------------------------------------------------------------------------------------------
+[END]
+ 

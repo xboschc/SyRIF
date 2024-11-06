@@ -1,0 +1,29 @@
+-----------------------------------------------------------------------------------------------------------------------
+ROB2 - 2.3 - Assignment - Were there deviations from the intended intervention that arose because of the trial context?
+----------------------------------------------------------------------------------------------------------------------- 
+
+INDIVIDUALLY RANDOMISED TRIALS
+
+For the effect of assignment to intervention, this domain assesses problems that arise when changes from assigned intervention that are inconsistent with the trial protocol arose because of the trial context. We use the term trial context to refer to effects of recruitment and engagement activities on trial participants and when trial personnel (carers or people delivering the interventions) undermine the implementation of the trial protocol in ways that would not happen outside the trial. For example, the process of securing informed consent may lead participants subsequently assigned to the comparator group to feel unlucky and therefore seek the experimental intervention, or other interventions that improve their prognosis.
+
+- Answer ‘Yes’ or ‘Probably yes’ only if there is evidence, or strong reason to believe, that the trial context led to failure to implement the protocol interventions or to implementation of interventions not allowed by the protocol. 
+
+- Answer ‘No’ or ‘Probably no’ if there were changes from assigned intervention that are inconsistent with the trial protocol, such as non-adherence to intervention, but these are consistent with what could occur outside the trial context. 
+Answer ‘No’ or ‘Probably no’ for changes to intervention that are consistent with the trial protocol, for example cessation of a drug intervention because of acute toxicity or use of additional interventions whose aim is to treat consequences of one of the intended interventions.
+
+- If blinding is compromised because participants report side effects or toxicities that are specific to one of the interventions, answer ‘Yes’ or ‘Probably yes’ only if there were changes from assigned intervention that are inconsistent with the trial protocol and arose because of the trial context.  
+The answer ‘No information’ may be appropriate, because trialists do not always report whether deviations arose because of the trial context.
+
+CLUSTER RANDOMISED TRIALS
+
+The guidance mostly applies as for individually-randomized trials.
+
+Deviations from the intended intervention that arise due to the trial context are rarely reported in cluster-randomized trials and may, in fact, occur rarely. This is likely to be partly because in these trials interventions are often aimed at clusters and cluster staff. These staff may not have the authority to introduce deviations, and if they do, may have less motivation to do so than caregivers or participants in individually randomized trials who are more directly aware of the intervention. In addition, the more complex the intervention, the more difficult it might be practically to identify such deviations. The answer ‘No information’ will therefore be appropriate in many cases, but ‘Probably yes’ should be used if it seems likely that such deviations occurred.
+
+------------------------------------------------------------------------------------------------------------------
+Sources:
+https://www.riskofbias.info/welcome/rob-2-0-tool/current-version-of-rob-2 [accessed 11th October 2024].
+https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials [accessed 4th November 2024].
+------------------------------------------------------------------------------------------------------------------
+[END]CLUSTER RANDOMISED TRIALS
+ 

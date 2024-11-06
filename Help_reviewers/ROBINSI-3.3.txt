@@ -1,0 +1,10 @@
+-----------------------------------------------------------------------------------------------------------------------------------
+ROBINS I - 3.3 - Could classification of intervention status have been affected by knowledge of the outcome or risk of the outcome?
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Collection of the information at the time of the intervention may not be sufficient to avoid bias. The way in which the data are collected for the purposes of the NRSI should also avoid misclassification.
+
+----------------------------------------------------------------------------------------------------------
+Source: https://www.riskofbias.info/welcome/home/current-version-of-robins-i [accessed 20th October 2024].
+----------------------------------------------------------------------------------------------------------
+[END]

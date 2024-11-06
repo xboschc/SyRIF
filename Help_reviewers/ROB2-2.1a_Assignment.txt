@@ -1,0 +1,12 @@
+----------------------------------------------------------------
+RoB2 - 2.1a - Were participants aware that they were in a trial?
+----------------------------------------------------------------
+
+In cluster-randomized trials it is possible for participants to know they are receiving an intervention (or even to know that they are in a study) but not to know that they are in a trial. They therefore may not know that another interventions is being compared with theirs or what this other intervention is. This makes it impossible for them to cause deviations from the intended interventions that arise because of the trial context.
+
+Answer ‘No’ if participants are not aware that they are in a study or aware that they are in a study but not that they are in trial.
+
+---------------------------------------------------------------------------------------------------------------------------
+Sources: https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials [accessed 4th November 2024].
+---------------------------------------------------------------------------------------------------------------------------
+[END]

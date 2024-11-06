@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------------------------------------------------------------------
+RoB2 - 1.b2 - Is it likely that selection of individual participants was affected by knowledge of the intervention assigned to the cluster?
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Answer ‘Yes’ if:
+(1) those recruiting individuals were aware of cluster allocation before recruitment and this is likely, consciously or subconsciously, to have affected recruitment differentially between the intervention groups;
+(2) some participants were aware of cluster allocation before their recruitment and this is likely to have affected recruitment differentially between the intervention groups;
+or
+(3) those identifying potential participants (when recruitment is to take place subsequently) are aware of cluster allocation and are likely, consciously or subconsciously, to have differentially included potential individual participants in different trial groups or those identifying actual participants (when there is no subsequent recruitment) are aware of cluster allocation and are likely consciously or subconsciously, to have differentially included potential individual participants in different trial groups.
+
+Answer ‘No’ if all of the following (as relevant depending on the trial) are unaware of cluster allocation at recruitment:
+(1) those identifying actual participants,
+(2) those identifying potential participants;
+(3) those recruiting; and
+(4) potential participants.
+
+---------------------------------------------------------------------------------------------------------------------------
+Sources: https://www.riskofbias.info/welcome/rob-2-0-tool/rob-2-for-cluster-randomized-trials [accessed 4th November 2024].
+---------------------------------------------------------------------------------------------------------------------------
+[END]
